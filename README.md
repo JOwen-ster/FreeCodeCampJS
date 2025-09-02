@@ -29,6 +29,7 @@ https://www.youtube.com/playlist?list=PL5S4mPUpp4Ovt5AckF2o0ERjoYkmkpl6I
 
 ## Links
 - [X] https://uiverse.io/
+- [] https://github.com/sindresorhus/awesome
 - [] https://supabase.com/
 - [] https://www.freecodecamp.org  
 - [] https://github.com/microsoft/Web-Dev-For-Beginners
